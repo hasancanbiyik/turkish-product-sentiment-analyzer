@@ -4,15 +4,15 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 
-> Real-time sentiment analysis for Turkish product reviews with English translation support
+> Real-time sentiment analysis for Turkish product reviews with English translation support! Although translation quality should be improved :)
 
 ## ✨ Features
 
-- **🔍 Real-time Analysis**: Classify Turkish product reviews as positive/negative
-- **🌍 Translation**: Automatic English translation of Turkish reviews  
-- **📊 Visualizations**: Interactive charts and sentiment metrics
-- **📁 Batch Processing**: Upload CSV files for bulk analysis
-- **🎯 High Accuracy**: Uses BERTurk model trained on 235K Turkish reviews
+- **🔍 Real-time Analysis**: Classify Turkish product reviews as positive/negative and see how confident the model is!
+- **🌍 Translation**: Automatic English translation of Turkish reviews (needs improvement!)
+- **📊 Visualizations**: Interactive charts and sentiment metrics.
+- **📁 Batch Processing**: Upload CSV files for bulk analysis.
+- **🎯 High Accuracy**: Uses BERTurk model trained on 235K Turkish reviews.
 
 ## 🚀 Quick Start
 
@@ -107,7 +107,12 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Hasan Can Biyik** - [GitHub](https://github.com/hasancanbiyik)
+**Hasan Can Biyik**
+
+
+- **Email** - hasanc.biyik@gmail.com
+
+- **LinkedIn** - [hasanc.biyik@gmail.com](https://www.linkedin.com/in/hasancanbyk/)
 
 ---
 
