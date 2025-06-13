@@ -1,0 +1,37 @@
+[
+  {
+    "review_id": 1,
+    "original": "Bu ürünü çok beğendim. Kalitesi harika, hızlı kargo için teşekkürler!",
+    "translation": "I love this product, it's great quality, thanks for the fast delivery!",
+    "sentiment": "positive",
+    "confidence": 0.953
+  },
+  {
+    "review_id": 2,
+    "original": "Ürün açıklamasındaki gibi değil. Çok kötü kalite, paranıza yazık.",
+    "translation": "It's not like the product description, it's bad quality, it's bad money.",
+    "sentiment": "negative",
+    "confidence": 0.999
+  },
+  {
+    "review_id": 3,
+    "original": "Fiyatına göre idare eder. Çok da bir beklentim yoktu zaten.",
+    "translation": "I didn't expect much.",
+    "sentiment": "negative",
+    "confidence": 0.994
+  },
+  {
+    "review_id": 4,
+    "original": "Mükemmel! Tam da aradığım ürün. Herkese tavsiye ederim.",
+    "translation": "It's just the product I'm looking for, and I recommend it to everyone.",
+    "sentiment": "positive",
+    "confidence": 0.995
+  },
+  {
+    "review_id": 5,
+    "original": "Kargo çok geç geldi ve ürün hasarlıydı. Hiç memnun kalmadım.",
+    "translation": "The cargo arrived too late and the product was damaged.",
+    "sentiment": "negative",
+    "confidence": 0.999
+  }
+]

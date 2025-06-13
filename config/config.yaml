@@ -1,0 +1,18 @@
+models:
+  sentiment:
+    turkish: "savasy/bert-base-turkish-sentiment-cased"
+    multilingual: "nlptown/bert-base-multilingual-uncased-sentiment"
+  translation:
+    model_name: "Helsinki-NLP/opus-mt-tr-en"
+    
+dataset:
+  name: "fthbrmnby/turkish_product_reviews"
+  test_split: 0.2
+  
+preprocessing:
+  max_length: 512
+  batch_size: 32
+  
+app:
+  title: "Turkish Product Review Sentiment Analyzer"
+  description: "Analyze sentiment of Turkish product reviews with English translation"

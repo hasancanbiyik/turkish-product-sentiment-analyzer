@@ -1,0 +1,36 @@
+ # Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+env/
+venv/
+ENV/
+
+# Models (too large for GitHub)
+models/
+*.bin
+*.safetensors
+*.pkl
+
+# Data
+*.csv
+*.parquet
+train-*.parquet
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Streamlit
+.streamlit/secrets.toml
